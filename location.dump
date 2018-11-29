@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 26 Nov 2018 10:23:35 GMT
+Content-Type: application/octet-stream
+Content-Length: 462
+Connection: keep-alive
+Set-Cookie: PHPSESSID=td61jvl04pqj6omuhklgeqsm96; path=/
+Content-Description: File Transfer
+Content-Disposition: attachment; filename="updater.sh"
+Expires: 0
+Cache-Control: must-revalidate
+Pragma: public
+Valid-Server: 1.1.1.1
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+
