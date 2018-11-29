@@ -2,3 +2,5 @@ Usage:
 
 ./grabber [host-server-addr] [port]
 
+Server part you can find https://github.com/sys-dev-me/mac-grabber-server
+
